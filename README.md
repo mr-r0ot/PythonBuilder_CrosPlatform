@@ -7,7 +7,7 @@ Get different output from Python Scripts! HTML, APK, Exe, C, Web, Bash, Linux, D
 
     Windows:
         [ w-1 ] exe      -- Windows Applications
-        [ w-2 ] C -- Windows Applications (Your Can Convert To exe and more)
+        [ w-2 ] C        -- Windows Applications (Your Can Convert To exe and more)
         [ w-3 ] bat      -- Windows Applications Code
 
     Web(Usable for all devices with a browser):
